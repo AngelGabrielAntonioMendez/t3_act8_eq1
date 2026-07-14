@@ -8,4 +8,4 @@
 * DummyJSON Products API (https://dummyjson.com/products)
 
 **Enlace al proyecto desplegado:**
-* [http://168.231.75.27](http://IP_DE_SU_VPS/t3_act8_eqXX)
+* [http://168.231.75.27/t3_act8_eq1](http://IP_DE_VPS/t3_act8_eq1)
